@@ -32,7 +32,7 @@
 	* práca s animáciami 
 	* viac druhov osvetlení
 	* tvorba tzv. *scrolling background* (pohybujúce sa pozadie dáva hráčovi pocit, že vesmíra loď skutočne letí vpred)
-	* rozšírená práca s Collider-mi
+	* rozšírená práca s Collider-mi (ohraničenia objektov)
 	* využitie [Instantiate](https://docs.unity3d.com/ScriptReference/Object.Instantiate.html) - klonovanie objektov (generovanie asteoridov, striel,...)
   * využitie [StartCoroutine](https://docs.unity3d.com/ScriptReference/MonoBehaviour.StartCoroutine.html) - využitie pri tvorení páuz medzi vlnami asteoridov  
   * využitie [Quaternion](https://docs.unity3d.com/ScriptReference/Quaternion.html) - reprezentácia rotácií
