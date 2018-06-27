@@ -2,7 +2,7 @@
 
 - jednoduchá 3D hra (pohľad zhora)
 - úlohou hráča je zostreliť čo najväčší počet blížiacich sa asteroidov 
-- asteoridy prichádzajú v určitých vlnách a v intervaloch
+- asteoridy prichádzajú v určitých vlnách a intervaloch
 - každou ďalšou vlnou sa zvyšuje obtiažnosť (navyšuje sa počet generovaných asteoridov)
 - ovládanie: 
   * šípky/{W,A,S,D} - pohyb lode
@@ -28,7 +28,7 @@
 </p>
 
 - implementácia 
-	* zvukové efekety
+	* zvukové efekty
 	* práca s animáciami 
 	* viac druhov osvetlení
 	* tvorba tzv. *scrolling background* (pohybujúce sa pozadie dáva hráčovi pocit, že vesmíra loď skutočne letí vpred)
